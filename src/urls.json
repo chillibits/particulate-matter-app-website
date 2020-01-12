@@ -1,0 +1,20 @@
+{
+    "en": {
+        "home": "https://chillibits.com",
+        "app_github": "https://github.com/chillibits",
+        "web_app_github": "https://github.com/chillibits",
+        "api_github": "https://github.com/mrgames13/particulate-matter-api",
+        "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
+        "web_version": "https://pm.chillibits.com",
+        "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU"
+    },
+    "de": {
+        "home": "https://chillibits.com",
+        "app_github": "https://github.com/chillibits",
+        "web_app_github": "https://github.com/chillibits",
+        "api_github": "https://github.com/mrgames13/particulate-matter-api",
+        "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
+        "web_version": "https://pm.chillibits.com",
+        "video_tutorial": "https://www.youtube.com/embed/BYk4-GT4Zl4"
+    }
+}

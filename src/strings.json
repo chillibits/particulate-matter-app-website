@@ -73,7 +73,6 @@
         "send": "Send",
         "sent_success": "Sent successfully!",
         "sent_failure": "An error occured! Please try again later.",
-        "video_tutorial_url": "https://www.youtube.com/embed/HBGpekbFaoU",
         "video_tutorial": "Video tutorial",
         "comfortable_text": "The app has a wide range of features to make the data evaluation as comfortable as possible.",
         "comfortable": "Comfortable",
@@ -83,7 +82,8 @@
         "show_data_records": "Show measurements as data records",
         "show_agerage_and_median": "Show daily average and median",
         "export_graph_and_records": "Export graph and records",
-        "share_sensor": "Share sensors"
+        "share_sensor": "Share sensors",
+        "web_version": "If you don't have an Android device, you maybe want to use the web version of the app:"
     },
     "de": {
         "title": "Die Feinstaub-App",
@@ -159,7 +159,6 @@
         "send": "Senden",
         "sent_success": "Erfolgreich gesendet!",
         "sent_failure": "Es ist ein Fehler aufgetreten! Bitte versuche es später erneut.",
-        "video_tutorial_url": "https://www.youtube.com/embed/BYk4-GT4Zl4",
         "video_tutorial": "Video-Tutorial",
         "comfortable_text": "Die App hat einen großen Funktionsempfang sodass die Datenauswertung möglichst komfortabel abläuft.",
         "comfortable": "Komfortabel",
@@ -169,6 +168,7 @@
         "show_data_records": "Messdaten als Datensätze anzeigen",
         "show_agerage_and_median": "Täglichen Mittelwert und Median anzeigen",
         "export_graph_and_records": "Diagramm und Datensätze exportieren",
-        "share_sensor": "Sensoren teilen"
+        "share_sensor": "Sensoren teilen",
+        "web_version": "Falls du kein Android Gerät besitzt, möchtest du vielleicht die Web-Version unserer App nutzen:"
     }
 }

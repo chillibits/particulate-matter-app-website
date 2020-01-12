@@ -179,9 +179,9 @@
                         <div class="footer_widget">
                             <h3 class="footer_title"><b>Services</b></h3>
                             <ul>
-                                <li><a href="https://pm.chillibits.de" target="_blank">Feinstaub-App Web</a></li>
-                                <li><a href="https://github.com/mrgames13/feinstaub-app" target="_blank">App auf GitHub</a></li>
-                                <li><a href="https://github.com/mrgames13/feinstaub-app-web" target="_blank">Web-App auf GitHub</a></li>
+                                <li><a href="https://pm.chillibits.com" target="_blank">Feinstaub-App Web</a></li>
+                                <li><a href="https://github.com/chillibits" target="_blank">App auf GitHub</a></li>
+                                <li><a href="https://github.com/chillibits" target="_blank">Web-App auf GitHub</a></li>
                                 <li><a href="https://github.com/mrgames13/particulate-matter-api" target="_blank">Feinstaub-API</a></li>
                             </ul>
                         </div>

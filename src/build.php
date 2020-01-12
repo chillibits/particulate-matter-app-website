@@ -5,6 +5,7 @@
     $languages = ["en", "de"];
     $file_exceptions = ["build.php", "strings.json"];
     $strings_file = "strings.json";
+    $urls_file = "urls.json";
     
     // Loop through every language
     foreach($languages as $lang) {
@@ -13,8 +14,14 @@
         // Copy all necessary files to the directory
         recursiveCopy(".", "../$lang", $file_exceptions);
         // Replace strings with the translation
-        foreach(rglob("../$lang/*.html") as $file) replaceStrings($file, $lang);
-        foreach(rglob("../$lang/*.php") as $file) replaceStrings($file, $lang);
+        foreach(rglob("../$lang/*.html") as $file) {
+            replaceUrls($file, $lang);
+            replaceStrings($file, $lang);
+        }
+        foreach(rglob("../$lang/*.php") as $file) {
+            replaceUrls($file, $lang);
+            replaceStrings($file, $lang);
+        }
     }
     exit;
 
@@ -62,6 +69,24 @@
 
         // Replace string occurences
         foreach($json as $key => $value) $html_code = str_replace("str_$key", $value, $html_code);
+
+        // Save current file
+        file_put_contents($file, $html_code);
+    }
+
+    function replaceUrls($file, $lang) {
+        global $urls_file;
+    
+        // Decode string.json file
+        $content = file_get_contents($urls_file);
+        $json = json_decode($content, true);
+        $json = $json[$lang];
+
+        // Load current file
+        $html_code = file_get_contents("../$lang/$file");
+
+        // Replace string occurences
+        foreach($json as $key => $value) $html_code = str_replace("url_$key", $value, $html_code);
 
         // Save current file
         file_put_contents($file, $html_code);
