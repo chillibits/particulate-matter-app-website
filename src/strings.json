@@ -13,9 +13,9 @@
         "faq_title_4": "How do I remove an existing link of a sensor?",
         "faq_text_4": "Change to the tab, where your sensor gets displayed and tap on the three dots to the right of the sensor item (For own sensors, you have to navigate to the 'My sensors' page). Tap on 'Remove sensor'. Confirm the dialog by tapping 'Remove sensor'.",
         "faq_title_5": "How can I show the measurement data of a specific sensor?",
-        "faq_text_5": "Here, there are two ways. ",
+        "faq_text_5": "Here, there are two ways. Either you create a link (see above) and tap on it or navigate to the map, tap on a sensor and select 'Show measurements'.",
         "faq_title_6": "How do I enable the 'tick' in the sensor configuration?",
-        "faq_text_6": "",
+        "faq_text_6": "To enable the 'tick' in the sensor configuration, you have to be in the same local network with the sensor (e.g. same local WiFi network). Please enter the IP address of the sensor in the address bar of your browser. There should be several buttons visible. Click on 'Configuration' and navigate to the tab 'APIs'. Enable the option 'Send to Feinstaub-App' and click 'Save and restart'. It can last up to 10 minutes to receive any data from the sensor. Please be patient until you can link the sensor within the app.",
         "faq": "FAQ",
         "contact_us": "Contact us",
         "contact": "Contact",
@@ -83,7 +83,8 @@
         "show_agerage_and_median": "Show daily average and median",
         "export_graph_and_records": "Export graph and records",
         "share_sensor": "Share sensors",
-        "web_version": "If you don't have an Android device, you maybe want to use the web version of the app:"
+        "web_version": "If you don't have an Android device, you maybe want to use the web version of the app:",
+        "google_play_trademark": "Google Play and the Google Play logo are trademarks of Google LLC."
     },
     "de": {
         "title": "Die Feinstaub-App",
@@ -101,7 +102,7 @@
         "faq_title_5": "Wie zeige ich die Messdaten für einen Sensor an?",
         "faq_text_5": "Hier gibt es zwei Möglichkeiten. Entweder Sie erstellen eine Verknüpfung (siehe oben) und tippen darauf oder Sie navigieren zur Karte, tippen einen Sensor an und wählen 'Messwerte zeigen'.",
         "faq_title_6": "Wie setzte ich das Häkchen in der Sensor-Konfiguration?",
-        "faq_text_6": "Um das Häkchen in der Sensor-Konfiguration zu setzen, müssen Sie sich mit dem Sensor im selben Netzwerk (z.B.: im selben WLAN-Netz) befinden. Geben Sie die IP-Adresse des Sensors in die Adressleiste des Browsers ein. Es sollten mehrere Buttons angezeigt werden. Klicken Sie auf Konfiguration. Scrollen Sie nach unten bis Sie eine Checkbox mit dem Titel 'Senden an Feinstaub-App' sehen. Setzen Sie dort den Haken. Ganz unten auf der Seite gibt es einen Speichern-Button. Klicken Sie darauf und starten den Sensor neu. Es kann bis zu 10 Minuten dauern, bis Messdaten auf unserem Server ankommen. Bitte haben Sie Geduld, bis Sie den Sensor in der App verknüpfen können.",
+        "faq_text_6": "Um das Häkchen in der Sensor-Konfiguration zu setzen, musstt Du dich mit dem Sensor im selben Netzwerk (z.B.: im selben WLAN-Netz) befinden. Gib die IP-Adresse des Sensors in die Adressleiste des Browsers ein. Es sollten mehrere Buttons angezeigt werden. Klicke auf 'Konfiguration' und auf den Reiter 'APIs'. Aktiviere dort die Option 'Senden an Feinstaub-App' und klicke auf 'Speichern und neu starten'. Es kann bis zu 10 Minuten dauern, bis Messdaten auf unserem Server ankommen. Bitte hab Geduld, bis Du den Sensor in der App verknüpfen kannst.",
         "faq": "FAQ",
         "contact_us": "Kontaktiere uns",
         "contact": "Kontakt",
@@ -169,6 +170,7 @@
         "show_agerage_and_median": "Täglichen Mittelwert und Median anzeigen",
         "export_graph_and_records": "Diagramm und Datensätze exportieren",
         "share_sensor": "Sensoren teilen",
-        "web_version": "Falls du kein Android Gerät besitzt, möchtest du vielleicht die Web-Version unserer App nutzen:"
+        "web_version": "Falls du kein Android Gerät besitzt, möchtest du vielleicht die Web-Version unserer App nutzen:",
+        "google_play_trademark": "Google Play und das Google Play Logo sind Marken der Google LLC."
     }
 }

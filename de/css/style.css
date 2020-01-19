@@ -34,6 +34,14 @@ body {
   padding: 5px;
 }
 
+.trademark {
+  position: absolute;
+  right: 10px;
+  margin-top: 135px;
+  color: white;
+  font-size: smaller;
+}
+
 [id]::before {
   content: '';
   display: block;
