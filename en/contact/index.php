@@ -193,6 +193,7 @@
                                 <li><a href="../features">Features</a></li>
                                 <li><a href="../faq">FAQ</a></li>
                                 <li><a href=".">Contact</a></li>
+                                <li><a href="../privacy">Privacy</a></li>
                             </ul>
                         </div>
                     </div>

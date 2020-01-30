@@ -84,7 +84,8 @@
         "export_graph_and_records": "Export graph and records",
         "share_sensor": "Share sensors",
         "web_version": "If you don't have an Android device, you maybe want to use the web version of the app:",
-        "google_play_trademark": "Google Play and the Google Play logo are trademarks of Google LLC."
+        "google_play_trademark": "Google Play and the Google Play logo are trademarks of Google LLC.",
+        "privacy": "Privacy"
     },
     "de": {
         "title": "Die Feinstaub-App",
@@ -171,6 +172,7 @@
         "export_graph_and_records": "Diagramm und Datensätze exportieren",
         "share_sensor": "Sensoren teilen",
         "web_version": "Falls du kein Android Gerät besitzt, möchtest du vielleicht die Web-Version unserer App nutzen:",
-        "google_play_trademark": "Google Play und das Google Play Logo sind Marken der Google LLC."
+        "google_play_trademark": "Google Play und das Google Play Logo sind Marken der Google LLC.",
+        "privacy": "Datenschutz"
     }
 }
