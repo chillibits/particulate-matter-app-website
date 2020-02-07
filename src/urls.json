@@ -18,5 +18,15 @@
         "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
         "web_version": "https://pm.chillibits.com",
         "video_tutorial": "https://www.youtube.com/embed/BYk4-GT4Zl4"
+    },
+    "fr": {
+        "home": "https://chillibits.com",
+        "header_github": "https://github.com/ChilliBits?q=particulate-matter-app",
+        "app_github": "https://github.com/chillibits/particulate-matter-app",
+        "web_app_github": "https://github.com/chillibits/particulate-matter-app-web",
+        "api_github": "https://github.com/marcauberer/particulate-matter-api",
+        "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
+        "web_version": "https://pm.chillibits.com",
+        "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU"
     }
 }

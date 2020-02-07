@@ -109,33 +109,33 @@
                                 echo("<p>Es ist ein Fehler aufgetreten! Bitte versuche es später erneut.</p>");
                             }
                         } else {
-                            echo('<form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm">
-                                <div class="row">
-                                    <div class="col-sm-6">
-                                        <div class="form-group">
-                                            <input class="form-control valid" name="name" id="name" type="text" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Name\'" placeholder="Name">
+                            echo("<form class=\"form-contact contact_form\" action=\"contact_process.php\" method=\"post\" id=\"contactForm\">
+                                <div class=\"row\">
+                                    <div class=\"col-sm-6\">
+                                        <div class=\"form-group\">
+                                            <input class=\"form-control valid\" name=\"name\" id=\"name\" type=\"text\" onfocus=\"this.placeholder = ''\" onblur=\"this.placeholder = 'Name'\" placeholder=\"Name\">
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
-                                        <div class="form-group">
-                                            <input class="form-control valid" name="email" id="email" type="email" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'E-Mail Adresse\'" placeholder="E-Mail Adresse">
+                                    <div class=\"col-sm-6\">
+                                        <div class=\"form-group\">
+                                            <input class=\"form-control valid\" name=\"email\" id=\"email\" type=\"email\" onfocus=\"this.placeholder = ''\" onblur=\"this.placeholder = 'E-Mail Adresse'\" placeholder=\"E-Mail Adresse\">
                                         </div>
                                     </div>
-                                    <div class="col-12">
-                                        <div class="form-group">
-                                            <input class="form-control" name="subject" id="subject" type="text" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Betreff\'" placeholder="Betreff">
+                                    <div class=\"col-12\">
+                                        <div class=\"form-group\">
+                                            <input class=\"form-control\" name=\"subject\" id=\"subject\" type=\"text\" onfocus=\"this.placeholder = ''\" onblur=\"this.placeholder = 'Betreff'\" placeholder=\"Betreff\">
                                         </div>
                                     </div>
-                                    <div class="col-12">
-                                        <div class="form-group">
-                                            <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Nachricht\'" placeholder="Nachricht"></textarea>
+                                    <div class=\"col-12\">
+                                        <div class=\"form-group\">
+                                            <textarea class=\"form-control w-100\" name=\"message\" id=\"message\" cols=\"30\" rows=\"9\" onfocus=\"this.placeholder = ''\" onblur=\"this.placeholder = 'Nachricht'\" placeholder=\"Nachricht\"></textarea>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="form-group mt-3">
-                                    <button type="submit" class="button button-contactForm boxed-btn">Senden</button>
+                                <div class=\"form-group mt-3\">
+                                    <button type=\"submit\" class=\"button button-contactForm boxed-btn\">Senden</button>
                                 </div>
-                            </form>');
+                            </form>");
                         }
                     ?>
                 </div>
