@@ -85,7 +85,13 @@
         "share_sensor": "Share sensors",
         "web_version": "If you don't have an Android device, you maybe want to use the web version of the app:",
         "google_play_trademark": "Google Play and the Google Play logo are trademarks of Google LLC.",
-        "privacy": "Privacy"
+        "privacy": "Privacy",
+        "stats_title": "Current numbers:",
+        "sensors_on_the_map": "sensors on the map",
+        "records_daily": "received data records every day",
+        "records_in_total": "received data records in total",
+        "server_requests_daily": "daily server requests",
+        "loading": "Loading ..."
     },
     "de": {
         "title": "Die Feinstaub-App",
@@ -173,7 +179,13 @@
         "share_sensor": "Sensoren teilen",
         "web_version": "Falls du kein Android Gerät besitzt, möchtest du vielleicht die Web-Version unserer App nutzen:",
         "google_play_trademark": "Google Play und das Google Play Logo sind Marken der Google LLC.",
-        "privacy": "Datenschutz"
+        "privacy": "Datenschutz",
+        "stats_title": "Aktuelle Zahlen:",
+        "sensors_on_the_map": "Sensoren auf der Karte",
+        "records_daily": "täglich empfangene Datensätze",
+        "records_in_total": "empfangene Datensätze insgesamt",
+        "server_requests_daily": "tägliche Serveranfragen",
+        "loading": "Laden ..."
     },
     "fr": {
         "title": "L'App Matière Particulaire",
@@ -261,6 +273,12 @@
         "share_sensor": "Partager des capteurs",
         "web_version": "Si vous ne disposez pas d'un appareil Android, vous souhaiterez peut-être utiliser la version web de l'application:",
         "google_play_trademark": "Google Play et le logo Google Play sont des marques déposées de Google LLC.",
-        "privacy": "Confidentialité"
+        "privacy": "Confidentialité",
+        "stats_title": "",
+        "sensors_on_the_map": "",
+        "records_daily": "",
+        "records_in_total": "",
+        "server_requests_daily": "",
+        "loading": ""
     }
 }

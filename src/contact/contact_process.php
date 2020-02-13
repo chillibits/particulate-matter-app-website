@@ -15,6 +15,6 @@
     $body .= "Betreff: $subject<br>";
     $body .= "Message: $message<br>";
 
-    $send = mail($to, "Neue Nachricht von ChilliBits Homepage", $body, $headers);
+    $send = mail($to, "Neue Nachricht von ChilliBits Homepage - ".$from, $body, $headers);
     header("Location: ./index.php");
 ?>
