@@ -274,11 +274,11 @@
         "web_version": "Si vous ne disposez pas d'un appareil Android, vous souhaiterez peut-être utiliser la version web de l'application:",
         "google_play_trademark": "Google Play et le logo Google Play sont des marques déposées de Google LLC.",
         "privacy": "Confidentialité",
-        "stats_title": "",
-        "sensors_on_the_map": "",
-        "records_daily": "",
-        "records_in_total": "",
-        "server_requests_daily": "",
-        "loading": ""
+        "stats_title": "Numéros actuels:",
+        "sensors_on_the_map": "capteurs sur la carte",
+        "records_daily": "enregistrements de données reçus par jour",
+        "records_in_total": "enregistrements de données reçus au total",
+        "server_requests_daily": "demandes du serveur quotidiennes",
+        "loading": "en chargement ..."
     }
 }
