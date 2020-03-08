@@ -123,7 +123,7 @@
                                     </div>
                                     <div class=\"col-12\">
                                         <div class=\"form-group\">
-                                            <input class=\"form-control\" name=\"subject\" id=\"subject\" type=\"text\" onfocus=\"this.placeholder = ''\" onblur=\"this.placeholder = 'Objet de l'e-mail'\" placeholder=\"Objet de l'e-mail\">
+                                            <input class=\"form-control\" name=\"subject\" id=\"subject\" type=\"text\" onfocus=\"this.placeholder = ''\" onblur=\"this.placeholder = 'Sujet'\" placeholder=\"Sujet\">
                                         </div>
                                     </div>
                                     <div class=\"col-12\">
