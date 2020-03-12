@@ -91,7 +91,10 @@
         "records_daily": "received data records every day",
         "records_in_total": "received data records in total",
         "server_requests_daily": "daily server requests",
-        "loading": "Loading ..."
+        "loading": "Loading ...",
+        "cookie_message": "This website uses cookies to ensure you get the best experience on our website.",
+        "cookie_button_text": "Got it!",
+        "cookie_learn_more": "Learn more"
     },
     "de": {
         "title": "Die Feinstaub-App",
@@ -185,7 +188,10 @@
         "records_daily": "täglich empfangene Datensätze",
         "records_in_total": "empfangene Datensätze insgesamt",
         "server_requests_daily": "tägliche Serveranfragen",
-        "loading": "Laden ..."
+        "loading": "Laden ...",
+        "cookie_message": "Diese Webseite nutzt Cookies um ein das bestmögliche Nutzererlebnis für Sie zu gewährleisten.",
+        "cookie_button_text": "Alles klar!",
+        "cookie_learn_more": "Mehr erfahren"
     },
     "fr": {
         "title": "L'App Matière Particulaire",
@@ -279,6 +285,9 @@
         "records_daily": "enregistrements de données reçus par jour",
         "records_in_total": "enregistrements de données reçus au total",
         "server_requests_daily": "demandes du serveur quotidiennes",
-        "loading": "en chargement ..."
+        "loading": "en chargement ...",
+        "cookie_message": "This website uses cookies to ensure you get the best experience on our website.",
+        "cookie_button_text": "Got it!",
+        "cookie_learn_more": "Learn more"
     }
 }
