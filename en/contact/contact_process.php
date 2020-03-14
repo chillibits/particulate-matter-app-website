@@ -1,5 +1,5 @@
 <?php
-    $to = "info@chillibits.com";
+    $to = "contact@chillibits.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
@@ -15,6 +15,6 @@
     $body .= "Betreff: $subject<br>";
     $body .= "Message: $message<br>";
 
-    $send = mail($to, "Neue Nachricht von ChilliBits Homepage - ".$from, $body, $headers);
+    $send = mail($to, "Neue Nachricht von der Feinstaub-App Homepage - ".$from, $body, $headers);
     header("Location: ./index.php");
 ?>
