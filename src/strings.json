@@ -286,8 +286,8 @@
         "records_in_total": "enregistrements de données reçus au total",
         "server_requests_daily": "demandes du serveur quotidiennes",
         "loading": "en chargement ...",
-        "cookie_message": "This website uses cookies to ensure you get the best experience on our website.",
-        "cookie_button_text": "Got it!",
-        "cookie_learn_more": "Learn more"
+        "cookie_message": "Ce site Web utilise des cookies pour vous garantir la meilleure expérience sur notre site Web.",
+        "cookie_button_text": "Je l'ai!",
+        "cookie_learn_more": "Apprendre encore plus"
     }
 }
