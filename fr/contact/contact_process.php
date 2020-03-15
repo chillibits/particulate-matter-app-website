@@ -16,5 +16,7 @@
     $body .= "Message: $message<br>";
 
     $send = mail($to, "Neue Nachricht von der Feinstaub-App Homepage - ".$from, $body, $headers);
-    header("Location: ./index.php");
+    if($send) header("Location: ./?success");
+    if(!$send) header("Location: ./?error");
+    exit();
 ?>

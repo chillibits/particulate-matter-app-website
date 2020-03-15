@@ -53,7 +53,7 @@ $(document).ready(function(){
                     required: "um...yea, you have to write something to send this form.",
                     minlength: "thats all? really?"
                 }
-            },
+            }/*,
             submitHandler: function(form) {
                 $(form).ajaxSubmit({
                     type:"POST",
@@ -77,7 +77,7 @@ $(document).ready(function(){
                         })
                     }
                 })
-            }
+            }*/
         })
     })
         

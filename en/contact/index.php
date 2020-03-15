@@ -104,13 +104,10 @@
                 </div>
                 <div class="col-lg-8">
                     <?php
-                        $sent = $_GET["sent"];
-                        if(isset($sent)) {
-                            if($sent == "success") {
-                                echo("<p>Sent successfully!</p>");
-                            } else {
-                                echo("<p>An error occured! Please try again later.</p>");
-                            }
+                        if(isset($_GET["success"])) {
+                            echo("<p class=\"wow fadeInUp\" data-wow-delay=\".2s\">Sent successfully!</p>");
+                        } else if(isset($_GET["error"])) {
+                            echo("<p class=\"wow fadeInUp\" data-wow-delay=\".2s\">An error occured! Please try again later.</p>");
                         } else {
                             echo("<form class=\"form-contact contact_form\" action=\"contact_process.php\" method=\"post\" id=\"contactForm\">
                                 <div class=\"row\">
