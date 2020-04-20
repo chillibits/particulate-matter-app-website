@@ -191,7 +191,7 @@
                                     <li><a href="https://pm.chillibits.com" target="_blank">PM App Web</a></li>
                                     <li><a href="https://github.com/chillibits/particulate-matter-app" target="_blank">App on GitHub</a></li>
                                     <li><a href="https://github.com/chillibits/particulate-matter-app-web" target="_blank">WebApp on GitHub</a></li>
-                                    <li><a href="https://github.com/marcauberer/particulate-matter-api" target="_blank">Particulate Matter API</a></li>
+                                    <li><a href="https://github.com/chillibits/particulate-matter-api" target="_blank">Particulate Matter API</a></li>
                                 </ul>
                             </div>
                         </div>
