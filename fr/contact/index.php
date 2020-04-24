@@ -167,7 +167,7 @@
                             <div class="footer_widget">
                                 <div class="footer_logo">
                                     <a href="../">
-                                        <img src="../img/logo.png" alt="">
+                                        <img src="../../../src/images/icon_small.png" alt="">
                                     </a>
                                 </div>
                                 <p><a href="https://chillibits.com"><b>ChilliBits</b></a><br>Amalienstraße 6<br>76646 Bruchsal<br>Germany</p>
