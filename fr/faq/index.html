@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="theme-color" content="#2c2c2c">
-        <title>L'App Matière Particulaire</title>
+        <title>L'App Matière Particulaire - La poussière fine elle-même</title>
         <meta name="description" content="L'App Matière Particulaire est une petite outil pour chercher la situation aérienne partout dans le monde.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 

@@ -1445,7 +1445,7 @@ h3 {
 }
 
 /* line 44, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
-.slider_area .single_slider .slider_text h3 {
+.slider_area .single_slider .slider_text h1 {
   color: #FFF;
   font-family: "Poppins", sans-serif;
   font-size: 60px;
@@ -1457,33 +1457,33 @@ h3 {
 
 @media (max-width: 767px) {
   /* line 52, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
-  .slider_area .single_slider .slider_text h3 br {
+  .slider_area .single_slider .slider_text h1 br {
     display: none;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 52, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
-  .slider_area .single_slider .slider_text h3 br {
+  .slider_area .single_slider .slider_text h1 br {
     display: none;
   }
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 52, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
-  .slider_area .single_slider .slider_text h3 br {
+  .slider_area .single_slider .slider_text h1 br {
     display: none;
   }
 }
 
 /* line 63, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
-.slider_area .single_slider .slider_text h3 span {
+.slider_area .single_slider .slider_text h1 span {
   font-weight: 700;
 }
 
 @media (max-width: 767px) {
   /* line 44, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
-  .slider_area .single_slider .slider_text h3 {
+  .slider_area .single_slider .slider_text h1 {
     font-size: 30px;
     line-height: 35px;
   }
@@ -1491,7 +1491,7 @@ h3 {
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 44, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
-  .slider_area .single_slider .slider_text h3 {
+  .slider_area .single_slider .slider_text h1 {
     font-size: 30px;
     line-height: 35px;
   }
@@ -1499,7 +1499,7 @@ h3 {
 
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 44, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
-  .slider_area .single_slider .slider_text h3 {
+  .slider_area .single_slider .slider_text h1 {
     font-size: 45px;
     letter-spacing: 3px;
     line-height: 55px;

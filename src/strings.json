@@ -1,5 +1,6 @@
 {
     "en": {
+        "title_page": "The Particulate Matter App - Measure particulate matter yourself",
         "title": "The Particulate Matter App",
         "description": "The Particulate Matter App is a small tool for looking up the air situation all around the world.",
         "get_started": "Get started",
@@ -98,6 +99,7 @@
         "stats": "Statistics"
     },
     "de": {
+        "title_page": "Die Feinstaub-App - Feinstaub selber messen",
         "title": "Die Feinstaub-App",
         "description": "Die Feinstaub-App ist ein kleineres Tool um die Luftsituation auf der ganzen Welt zu überprüfen.",
         "get_started": "Jetzt loslegen",
@@ -196,6 +198,7 @@
         "stats": "Statistiken"
     },
     "fr": {
+        "title_page": "L'App Matière Particulaire - La poussière fine elle-même",
         "title": "L'App Matière Particulaire",
         "description": "L'App Matière Particulaire est une petite outil pour chercher la situation aérienne partout dans le monde.",
         "get_started": "Commencer",
