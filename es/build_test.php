@@ -2,7 +2,7 @@
     // Build tool for the ChilliBits website
 
     // Constants
-    $languages = ["en", "de", "fr", "es"];
+    $languages = ["en"];
     $file_exceptions = ["build.php", "strings.json", "urls.json"];
     $strings_file = "strings.json";
     $urls_file = "urls.json";
@@ -10,15 +10,15 @@
     // Loop through every language
     foreach($languages as $lang) {
         // If directory already exists, clear it
-        if(file_exists("../$lang") && is_dir("../$lang")) clearContentsOfDir("../$lang");
+        if(file_exists("../".$lang."_test") && is_dir("../$lang")) clearContentsOfDir("../$lang");
         // Copy all necessary files to the directory
-        recursiveCopy(".", "../$lang", $file_exceptions);
+        recursiveCopy(".", "../".$lang."_test", $file_exceptions);
         // Replace strings with the translation
-        foreach(rglob("../$lang/*.html") as $file) {
+        foreach(rglob("../".$lang."_test/*.html") as $file) {
             replaceUrls($file, $lang);
             replaceStrings($file, $lang);
         }
-        foreach(rglob("../$lang/*.php") as $file) {
+        foreach(rglob("../".$lang."_test/*.php") as $file) {
             replaceUrls($file, $lang);
             replaceStrings($file, $lang);
         }
@@ -59,13 +59,13 @@
         $json = $json[$lang];
 
         // Load current file
-        $html_code = file_get_contents("../$lang/$file");
+        $html_code = file_get_contents("../".$lang."_test/$file");
 
         // Replace html lang tag
-        $html_code = str_replace('lang="en"', 'lang="'.$lang.'"', $html_code);
+        $html_code = str_replace('lang="es"', 'lang="'.$lang.'"', $html_code);
 
         // Replace lang placeholders
-        $html_code = str_replace('[lang]', $lang, $html_code);
+        $html_code = str_replace('es', $lang, $html_code);
 
         // Replace string occurences
         foreach($json as $key => $value) $html_code = str_replace("str_$key", $value, $html_code);
@@ -100,4 +100,3 @@
         return $files;
     }
 ?>
-build successful

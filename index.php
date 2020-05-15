@@ -7,6 +7,8 @@
         header("Location: ./de/$path");
     } else if($lang == "fr") {
         header("Location: ./fr/$path");
+    } else if($lang == "es") {
+        header("Location: ./es/$path");
     } else {
         // Default language
         header("Location: ./en/$path");
