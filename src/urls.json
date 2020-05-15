@@ -1,7 +1,7 @@
 {
     "en": {
         "home": "https://chillibits.com",
-        "header_github": "https://github.com/ChilliBits?q=particulate-matter-app",
+        "header_github": "https://github.com/ChilliBits?q=particulate-matter",
         "app_github": "https://github.com/chillibits/particulate-matter-app",
         "web_app_github": "https://github.com/chillibits/particulate-matter-app-web",
         "api_github": "https://github.com/chillibits/particulate-matter-api",
@@ -11,7 +11,7 @@
     },
     "de": {
         "home": "https://chillibits.com",
-        "header_github": "https://github.com/ChilliBits?q=particulate-matter-app",
+        "header_github": "https://github.com/ChilliBits?q=particulate-matter",
         "app_github": "https://github.com/chillibits/particulate-matter-app",
         "web_app_github": "https://github.com/chillibits/particulate-matter-app-web",
         "api_github": "https://github.com/chillibits/particulate-matter-api",
@@ -21,7 +21,7 @@
     },
     "fr": {
         "home": "https://chillibits.com",
-        "header_github": "https://github.com/ChilliBits?q=particulate-matter-app",
+        "header_github": "https://github.com/ChilliBits?q=particulate-matter",
         "app_github": "https://github.com/chillibits/particulate-matter-app",
         "web_app_github": "https://github.com/chillibits/particulate-matter-app-web",
         "api_github": "https://github.com/chillibits/particulate-matter-api",
