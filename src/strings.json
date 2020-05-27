@@ -96,7 +96,8 @@
         "cookie_message": "This website uses cookies to ensure you get the best experience on our website.",
         "cookie_button_text": "Got it!",
         "cookie_learn_more": "Learn more",
-        "stats": "Statistics"
+        "stats": "Statistics",
+        "open_instructions": "Open building instructions"
     },
     "de": {
         "title_page": "Die Feinstaub-App - Feinstaub selber messen",
@@ -195,7 +196,8 @@
         "cookie_message": "Diese Webseite nutzt Cookies um ein das bestmögliche Nutzererlebnis für Sie zu gewährleisten.",
         "cookie_button_text": "Alles klar!",
         "cookie_learn_more": "Mehr erfahren",
-        "stats": "Statistiken"
+        "stats": "Statistiken",
+        "open_instructions": "Bauanleitung öffnen"
     },
     "fr": {
         "title_page": "L'App Matière Particulaire - La poussière fine elle-même",
@@ -294,7 +296,8 @@
         "cookie_message": "Ce site Web utilise des cookies pour vous garantir la meilleure expérience sur notre site Web.",
         "cookie_button_text": "Je l'ai!",
         "cookie_learn_more": "Apprendre encore plus",
-        "stats": "Statistics"
+        "stats": "Statistics",
+        "open_instructions": "Ouvrir les instructions de construction"
     },
     "es": {
         "title_page": "La aplicación de partículas de materia - Mida usted mismo las partículas de materia",
@@ -393,6 +396,7 @@
         "cookie_message": "Este sitio web utiliza cookies para asegurar que usted obtenga la mejor experiencia en nuestro sitio web.",
         "cookie_button_text": "¡Ya lo tengo!",
         "cookie_learn_more": "Más información",
-        "stats": "Estadísticas"
+        "stats": "Estadísticas",
+        "open_instructions": "Instrucciones de construcción abiertas"
     }
 }

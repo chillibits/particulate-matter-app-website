@@ -7,7 +7,8 @@
         "api_github": "https://github.com/chillibits/particulate-matter-api",
         "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
         "web_version": "https://pm.chillibits.com",
-        "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU"
+        "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU",
+        "building_instructions": "https://sensor.community/en/sensors/airrohr/"
     },
     "de": {
         "home": "https://chillibits.com",
@@ -17,7 +18,8 @@
         "api_github": "https://github.com/chillibits/particulate-matter-api",
         "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
         "web_version": "https://pm.chillibits.com",
-        "video_tutorial": "https://www.youtube.com/embed/BYk4-GT4Zl4"
+        "video_tutorial": "https://www.youtube.com/embed/BYk4-GT4Zl4",
+        "building_instructions": "https://sensor.community/de/sensors/airrohr/"
     },
     "fr": {
         "home": "https://chillibits.com",
@@ -27,6 +29,18 @@
         "api_github": "https://github.com/chillibits/particulate-matter-api",
         "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
         "web_version": "https://pm.chillibits.com",
-        "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU"
+        "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU",
+        "building_instructions": "https://sensor.community/fr/sensors/airrohr/"
+    },
+    "es": {
+        "home": "https://chillibits.com",
+        "header_github": "https://github.com/ChilliBits?q=particulate-matter",
+        "app_github": "https://github.com/chillibits/particulate-matter-app",
+        "web_app_github": "https://github.com/chillibits/particulate-matter-app-web",
+        "api_github": "https://github.com/chillibits/particulate-matter-api",
+        "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
+        "web_version": "https://pm.chillibits.com",
+        "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU",
+        "building_instructions": "https://sensor.community/en/sensors/airrohr/"
     }
 }
