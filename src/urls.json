@@ -8,7 +8,8 @@
         "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
         "web_version": "https://pm.chillibits.com",
         "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU",
-        "building_instructions": "https://sensor.community/en/sensors/airrohr/"
+        "building_instructions": "https://sensor.community/en/sensors/airrohr/",
+        "status_dashboard": "https://status.pm.chillibits.com/"
     },
     "de": {
         "home": "https://chillibits.com",
@@ -19,7 +20,8 @@
         "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
         "web_version": "https://pm.chillibits.com",
         "video_tutorial": "https://www.youtube.com/embed/BYk4-GT4Zl4",
-        "building_instructions": "https://sensor.community/de/sensors/airrohr/"
+        "building_instructions": "https://sensor.community/de/sensors/airrohr/",
+        "status_dashboard": "https://status.pm.chillibits.com/"
     },
     "fr": {
         "home": "https://chillibits.com",
@@ -30,7 +32,8 @@
         "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
         "web_version": "https://pm.chillibits.com",
         "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU",
-        "building_instructions": "https://sensor.community/fr/sensors/airrohr/"
+        "building_instructions": "https://sensor.community/fr/sensors/airrohr/",
+        "status_dashboard": "https://status.pm.chillibits.com/"
     },
     "es": {
         "home": "https://chillibits.com",
@@ -41,6 +44,7 @@
         "download": "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.feinstaubapp",
         "web_version": "https://pm.chillibits.com",
         "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU",
-        "building_instructions": "https://sensor.community/en/sensors/airrohr/"
+        "building_instructions": "https://sensor.community/en/sensors/airrohr/",
+        "status_dashboard": "https://status.pm.chillibits.com/"
     }
 }
