@@ -62,6 +62,20 @@
                             </div>
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div class="Appointment">
+                                    <div class="main-menu d-none d-lg-block">
+                                        <nav>
+                                            <ul>
+                                                <li><a href="../..">[LANG] <i class="ti-angle-down"></i></a>
+                                                    <ul class="submenu">
+                                                        <li><a href="../../en/contact">EN</a></li>
+                                                        <li><a href="../../de/contact">DE</a></li>
+                                                        <li><a href="../../fr/contact">FR</a></li>
+                                                        <li><a href="../../es/contact">ES</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </nav>
+                                    </div>
                                     <div class="book_btn d-none d-lg-block">
                                         <a href="url_download" target="_blank">str_download</a>
                                     </div>
