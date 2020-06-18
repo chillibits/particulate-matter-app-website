@@ -23,6 +23,9 @@
             replaceStrings($file, $lang);
         }
     }
+    
+    // Redirect to build result
+    header('Location: ..');
     exit;
 
     // --------------------- Functions ----------------------
@@ -66,6 +69,7 @@
 
         // Replace lang placeholders
         $html_code = str_replace('fr', $lang, $html_code);
+        $html_code = str_replace('FR', $lang, $html_code);
 
         // Replace string occurences
         foreach($json as $key => $value) $html_code = str_replace("str_$key", $value, $html_code);

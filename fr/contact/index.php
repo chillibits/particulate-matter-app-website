@@ -65,12 +65,12 @@
                                     <div class="main-menu d-none d-lg-block">
                                         <nav>
                                             <ul>
-                                                <li><a href="../..">FR <i class="ti-angle-down"></i></a>
+                                                <li><a href="../.."><img src="../img/flags/flag_fr.png" class="flag"/> FR <i class="ti-angle-down"></i></a>
                                                     <ul class="submenu">
-                                                        <li><a href="../../en/contact">EN</a></li>
-                                                        <li><a href="../../de/contact">DE</a></li>
-                                                        <li><a href="../../fr/contact">FR</a></li>
-                                                        <li><a href="../../es/contact">ES</a></li>
+                                                        <li><a href="../../en/contact"><img src="../img/flags/flag_en.png" class="flag flag-menu"/>EN</a></li>
+                                                        <li><a href="../../de/contact"><img src="../img/flags/flag_de.png" class="flag flag-menu"/>DE</a></li>
+                                                        <li><a href="../../fr/contact"><img src="../img/flags/flag_fr.png" class="flag flag-menu"/>FR</a></li>
+                                                        <li><a href="../../es/contact"><img src="../img/flags/flag_es.png" class="flag flag-menu"/>ES</a></li>
                                                     </ul>
                                                 </li>
                                             </ul>

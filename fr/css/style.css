@@ -19,6 +19,14 @@
   font-size: 45px;
 }
 
+.flag {
+  margin-right: 15px;
+}
+
+.flag-menu {
+  margin-left: -10px;
+}
+
 /* Normal desktop :1200px. */
 /* Normal desktop :992px. */
 /* Tablet desktop :768px. */
@@ -1169,7 +1177,7 @@ h3 {
   left: 0;
   top: 160%;
   background: #fff;
-  width: 70px;
+  width: 100px;
   z-index: 2;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.02);
   opacity: 0;
