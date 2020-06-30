@@ -387,21 +387,29 @@
     });
     
     function animateValue(id, end) {
+      // Shrink big numbers e.g Mio
+      let prefix = ""
+      if(end > 1000000) {
+        end = end / 1000000.0
+        prefix = " Mio."
+      }
+
       var current = 0;
-      var y = 0;
+      var y = 0.0;
       var obj = document.getElementById(id);
       var timer = setInterval(function() {
           current++;
-          y = Math.round(end - end * Math.pow(Math.E, -0.02 * current));
-          obj.innerHTML = thousands_separators(y);
-          if (y == end) clearInterval(timer);
+          y = end - end * Math.pow(Math.E, -0.02 * current);
+          obj.innerHTML = thousands_separators((prefix != "" ? y.toFixed(1) : y.toFixed()).toString()) + prefix;
+          if (y >= end) clearInterval(timer);
       }, 1);
     }
 
     function thousands_separators(num) {
-      var num_parts = num.toString().split(",");
-      num_parts[0] = num_parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".");
-      return num_parts.join(",");
+      //var num_parts = num.split(",");
+      //num_parts[0] = num_parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+      //return num_parts.join(",");
+      return num;
     }
 
     function elementInView(elem){
