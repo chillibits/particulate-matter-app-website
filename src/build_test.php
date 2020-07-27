@@ -64,9 +64,6 @@
         // Load current file
         $html_code = file_get_contents("../".$lang."_test/$file");
 
-        // Replace html lang tag
-        $html_code = str_replace('lang="en"', 'lang="'.$lang.'"', $html_code);
-
         // Replace lang placeholders
         $html_code = str_replace('[lang]', $lang, $html_code);
         $html_code = str_replace('[LANG]', $lang, $html_code);
