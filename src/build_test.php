@@ -23,9 +23,6 @@
             replaceStrings($file, $lang);
         }
     }
-    
-    // Redirect to build result
-    header('Location: ..');
     exit;
 
     // --------------------- Functions ----------------------
@@ -101,3 +98,4 @@
         return $files;
     }
 ?>
+test build successful
