@@ -22,7 +22,10 @@
             replaceUrls($file, $lang);
             replaceStrings($file, $lang);
         }
+        echo("Build for $lang done.");
     }
+
+    echo("Build successful");
     exit;
 
     // --------------------- Functions ----------------------
@@ -98,4 +101,3 @@
         return $files;
     }
 ?>
-build successful
