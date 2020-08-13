@@ -98,7 +98,8 @@
         "cookie_learn_more": "Learn more",
         "stats": "Statistics",
         "open_instructions": "Open building instructions",
-        "status_dashboard": "Status dashboard"
+        "status_dashboard": "Status dashboard",
+        "warning": "Our hosting provider is currently facing some issues with the server performance. We're also affected by these problems. Check out our <a href='https://status.pm.chillibits.com'>Status Dashboard</a> to get detailed information."
     },
     "de": {
         "title_page": "Die Feinstaub-App - Feinstaub selber messen",
@@ -199,7 +200,8 @@
         "cookie_learn_more": "Mehr erfahren",
         "stats": "Statistiken",
         "open_instructions": "Bauanleitung öffnen",
-        "status_dashboard": "Status-Dashboard"
+        "status_dashboard": "Status-Dashboard",
+        "warning": "Unser Hosting-Anbieter Strato hat im Moment massive Probleme mit der Server-Performance. Wir sind ebenfalls davon betroffen. Besuchen Sie unser <a href='https://status.pm.chillibits.com'>Status Dashboard</a> für genauere Informationen."
     },
     "fr": {
         "title_page": "L'App Matière Particulaire - La poussière fine elle-même",
@@ -300,7 +302,8 @@
         "cookie_learn_more": "Apprendre encore plus",
         "stats": "Statistics",
         "open_instructions": "Ouvrir les instructions de construction",
-        "status_dashboard": "Tableau de bord du statut"
+        "status_dashboard": "Tableau de bord du statut",
+        "warning": "Notre fournisseur d'hébergement est actuellement confronté à des problèmes de performance du serveur. Nous sommes également touchés par ces problèmes. Consultez notre <a href='https://status.pm.chillibits.com'>Status Dashboard</a> pour obtenir des informations détaillées."
     },
     "es": {
         "title_page": "La aplicación de partículas de materia - Mida usted mismo las partículas de materia",
@@ -401,6 +404,7 @@
         "cookie_learn_more": "Más información",
         "stats": "Estadísticas",
         "open_instructions": "Instrucciones de construcción abiertas",
-        "status_dashboard": "Tablero de estado"
+        "status_dashboard": "Tablero de estado",
+        "warning": "Nuestro proveedor de alojamiento se enfrenta actualmente a algunos problemas con el rendimiento del servidor. También estamos afectados por estos problemas. Revisa nuestro <a href='https://status.pm.chillibits.com'>Salón de estado</a> para obtener información detallada."
     }
 }

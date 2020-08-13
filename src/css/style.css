@@ -19,6 +19,15 @@
   font-size: 45px;
 }
 
+.warning {
+  background-color: rgb(216, 0, 0);
+  border-radius: 5px;
+  border-color: rgb(136, 0, 0);
+  border-width: 5px;
+  padding: 10px;
+  color: white;
+}
+
 .flag {
   margin-right: 15px;
 }
