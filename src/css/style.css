@@ -21,9 +21,10 @@
 
 .warning {
   background-color: rgb(216, 0, 0);
-  border-radius: 5px;
-  border-color: rgb(136, 0, 0);
-  border-width: 5px;
+  border-radius: 7px;
+  border-color: rgb(153, 0, 0);
+  border-width: 2px;
+  border-style: solid;
   padding: 10px;
   color: white;
 }
@@ -143,6 +144,7 @@ h4 a,
 h5 a,
 h6 a {
   color: inherit;
+  text-decoration: underline;
 }
 
 /* line 52, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/theme-default.scss */
