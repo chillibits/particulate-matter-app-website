@@ -3,7 +3,7 @@
 
     // Constants
     $languages = ["en", "de", "fr", "es"];
-    $file_exceptions = ["build.php", "strings.json", "urls.json"];
+    $file_exceptions = ["build.php", "build_test.php", "strings.json", "urls.json"];
     $strings_file = "strings.json";
     $urls_file = "urls.json";
     
