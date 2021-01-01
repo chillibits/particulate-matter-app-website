@@ -7,4 +7,4 @@ All strings are extracted into the file [src/strings.json](https://github.com/Ch
 ## Legal protection
 We hereby prohibit the redistribution or copying and reuploading of this website. The infringement of this, can have legal consequences.
 
-© ChilliBits 2020
+© ChilliBits 2020-2021
