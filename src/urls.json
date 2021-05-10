@@ -10,7 +10,7 @@
         "web_version": "https://pm.chillibits.com",
         "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU",
         "building_instructions": "https://sensor.community/en/sensors/airrohr/",
-        "status_dashboard": "https://status.pm.chillibits.com/"
+        "status_dashboard": "https://stats.uptimerobot.com/8B19kTjwME"
     },
     "de": {
         "home": "https://chillibits.com",
@@ -23,7 +23,7 @@
         "web_version": "https://pm.chillibits.com",
         "video_tutorial": "https://www.youtube.com/embed/BYk4-GT4Zl4",
         "building_instructions": "https://sensor.community/de/sensors/airrohr/",
-        "status_dashboard": "https://status.pm.chillibits.com/"
+        "status_dashboard": "https://stats.uptimerobot.com/8B19kTjwME"
     },
     "fr": {
         "home": "https://chillibits.com",
@@ -36,7 +36,7 @@
         "web_version": "https://pm.chillibits.com",
         "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU",
         "building_instructions": "https://sensor.community/fr/sensors/airrohr/",
-        "status_dashboard": "https://status.pm.chillibits.com/"
+        "status_dashboard": "https://stats.uptimerobot.com/8B19kTjwME"
     },
     "es": {
         "home": "https://chillibits.com",
@@ -49,6 +49,6 @@
         "web_version": "https://pm.chillibits.com",
         "video_tutorial": "https://www.youtube.com/embed/HBGpekbFaoU",
         "building_instructions": "https://sensor.community/en/sensors/airrohr/",
-        "status_dashboard": "https://status.pm.chillibits.com/"
+        "status_dashboard": "https://stats.uptimerobot.com/8B19kTjwME"
     }
 }
