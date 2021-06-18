@@ -393,7 +393,7 @@
       if(end > 1000000000) {
         end = end / 1000000000.0
         suffix = " Mrd."
-        decimals = 3
+        decimals = 2
       } else if(end > 1000000) {
         end = end / 1000000.0
         suffix = " Mio."
