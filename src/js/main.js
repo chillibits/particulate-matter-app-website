@@ -388,10 +388,16 @@
     
     function animateValue(id, end) {
       // Shrink big numbers e.g Mio
-      let prefix = ""
-      if(end > 1000000) {
+      let suffix = ""
+      let decimals = 0
+      if(end > 1000000000) {
+        end = end / 1000000000.0
+        suffix = " Mrd."
+        decimals = 3
+      } else if(end > 1000000) {
         end = end / 1000000.0
-        prefix = " Mio."
+        suffix = " Mio."
+        decimals = 1
       }
 
       var current = 0;
@@ -400,7 +406,7 @@
       var timer = setInterval(function() {
           current++;
           y = end - end * Math.pow(Math.E, -0.02 * current);
-          obj.innerHTML = thousands_separators((prefix != "" ? y.toFixed(1) : y.toFixed()).toString()) + prefix;
+          obj.innerHTML = thousands_separators((suffix != "" ? y.toFixed(decimals) : y.toFixed()).toString()) + suffix;
           if (y >= end) clearInterval(timer);
       }, 1);
     }
