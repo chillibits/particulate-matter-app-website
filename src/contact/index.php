@@ -154,13 +154,6 @@
                         ?>
                     </div>
                     <div class="col-lg-3 offset-lg-1">
-                        <div class="media contact-info wow fadeInRight">
-                            <span class="contact-info__icon"><i class="ti-home"></i></span>
-                            <div class="media-body">
-                                <h3>Amalienstraße 6</h3>
-                                <p>76646 Bruchsal, Germany</p>
-                            </div>
-                        </div>
                         <div class="media contact-info wow fadeInRight" data-wow-delay=".2s">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
@@ -186,7 +179,7 @@
                                         <img src="../../../src/images/icon_small.png" alt="ChilliBits Logo">
                                     </a>
                                 </div>
-                                <p><a href="url_home"><b>ChilliBits</b></a><br>Amalienstraße 6<br>76646 Bruchsal<br>Germany</p>
+                                <p><a href="url_home"><b>ChilliBits</b></a></p>
                             </div>
                         </div>
                         <div class="col-xl-2 offset-xl-1 col-md-6 col-lg-2">
