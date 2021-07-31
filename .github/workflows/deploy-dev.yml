@@ -1,5 +1,4 @@
 # Build and deploy app to ftp server on develop push
-
 name: CI
 
 on:
